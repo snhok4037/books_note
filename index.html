@@ -4,32 +4,38 @@
 	<meta name="viewport" content="width=device-width, initial-scale=1.0">
 	<script>document.write('<script src="http://' + (location.host || 'localhost').split(':')[0] + ':35729/livereload.js?snipver=1"></' + 'script>')</script>
 
+	<script async type="text/javascript" src="js/convertNote.js"></script>
 	<link rel="stylesheet" type="text/css" href="css/reset.css">
 	<link rel="stylesheet" type="text/css" href="css/desktop.css">
 	<title>리디북스 독서노트 자동정리</title>
 </head>
 <body>
-	<header style="border-bottom: 1px solid;">
-		<a href="#note">본문 바로가기</a>
-		<h1>
-			로고
-		</h1>
-		<ul class="gnb">
-			<li><a href="">리디북스 노트 변환</a></li>
-		</ul>
+	<a href="#note" class="hidden">본문 바로가기</a>
+	<header>
+		<div class="inner">
+			<h1>
+				로고
+			</h1>
+			<ul class="gnb">
+				<li><a href="">리디북스 노트 변환</a></li>
+			</ul>
+			<ul class="addMenu">
+				<li>환영합니다</li>
+			</ul>
+		</div>
 	</header>
 
-	<h2>리디북스 노트 변환</h2>
 	<section id="note" class="note">
+		<h2 class="hidden">리디북스 노트 변환</h2>
 		<div class="inner" style="display: flex;">
 			<div class="left-inner">
-				<textarea cols="50" rows="30"></textarea>
+				<textarea cols="100" rows="30" id="beforeChangeNote"></textarea>
 			</div>
 			<div class="center-inner">
-				<button type="button">변환</button>
+				<button type="button" id="convertNote">변환</button>
 			</div>
 			<div class="right-inner">
-				<textarea cols="50" rows="30"></textarea>
+				<textarea cols="100" rows="30" id="afterChangeNote" readonly=""></textarea>
 			</div>
 		</div>
 	</section>
