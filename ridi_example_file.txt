@@ -1,113 +1,417 @@
-  <div id="app">
+<div id="app">
     <section id="page_reading_note_detail" class="css-gg82fz">
-      <h2 class="module_pagetitle css-5brim0">
-        <a class="pagetitle_text title_link js_reading_note_title_link" href="/reading-note/timeline">
-          <span class="icon-arrow_8_left css-weo889"></span> 독서노트
-        </a>
-      </h2>
-      <article>
-        <div class="css-5f4m9y"> <!-- 공통 -->
-          <a href="/books/2234001683">
-            <div class="css-1bw5jfz">
-              <img alt="이제는 매혹적인 대화법이 이긴다" width="110" src="https://img.ridicdn.net/cover/2234001683/large#1" class="css-14lanzs">
+        <h2 class="module_pagetitle css-5brim0">
+            <a class="pagetitle_text title_link js_reading_note_title_link" href="/reading-note/timeline">
+                <span class="icon-arrow_8_left css-weo889">
+                </span> 독서노트
+            </a>
+        </h2>
+        <article>
+            <div class="css-5f4m9y">
+                <!-- 공통 -->
+                <a href="/books/2234001683">
+                    <div class="css-1bw5jfz">
+                        <img alt="이제는 매혹적인 대화법이 이긴다" width="110" src="https://img.ridicdn.net/cover/2234001683/large#1" class="css-14lanzs">
+                    </div>
+                </a>
+                <div class="css-4wuuch">
+                    <span class="icon-title_deco_right css-1u3de4r">
+                    </span>
+                    <h3 class="css-bm6nz6">
+                        <a href="/books/2234001683" class="css-11ln9ar">이제는 매혹적인 대화법이 이긴다
+                        </a>
+                    </h3>
+                    <div class="css-0">
+                        <span class="css-aqprll">
+                            <a href="/author/119">이정숙
+                            </a>
+                        </span> 저
+                    </div>
+                </div>
             </div>
-          </a>
-          <div class="css-4wuuch">
-            <span class="icon-title_deco_right css-1u3de4r"></span>
-
-            <h3 class="css-bm6nz6">
-              <a href="/books/2234001683" class="css-11ln9ar">이제는 매혹적인 대화법이 이긴다</a>
-            </h3>
-
-            <div class="css-0">
-              <span class="css-aqprll">
-                <a href="/author/119">이정숙</a></span> 저</div></div></div><div class="css-18obxw2"><div width="130px" class="css-63wo4i"><div class="css-vr3ehw"><span class="css-1ks8az8"><span class="icon-highlighter_1 css-17kgo3n"></span><span class="css-r276py">전체</span><span class="css-snpzj3"> 3</span><span class="css-19q4yt"></span></span></div><ul class="css-1wbg184"><li data-name="total" class="css-x6anio"><span class="icon-highlighter_1 css-17kgo3n"></span><span class="css-r276py">전체</span><span class="css-snpzj3"> 3</span><span class="icon-check_1 css-1dq72b9"></span></li><li data-name="yellow" class="css-1c9virz"><span color="color_highlighter_yellow" class="css-1kupmiy"></span><span class="css-1buzbdi">노랑</span><span class="css-snpzj3"> 3</span></li></ul></div><ul class="css-1jrt56o"><li class="css-vgz3sg"><div class="css-25agpy"><div class="css-uo06to"></div></div><p class="css-135eg6y"><span color="#e7d87c" class="css-18p4zpc"></span>눈과 귀가 바쁜 요즘 시대일지라도 말 몇 마디로, 글 몇 문장으로 사람들의 시선을 사로잡을 수 있다. 매혹적인 대화법은 상대의 눈과 마음을 사로잡고, 말 몇 마디로 상대를 내 편으로 만들고, 그를 행동하게 만드는 마력을 갖고 있기 때문이다</p><div class="css-139jjve"><span class="css-kqjshd"><p>2021.05.18.</p></span><div tabindex="1" class="icon-dotdotdot css-hj07n5"></div></div></li><li class="css-vgz3sg"><div class="css-25agpy"><div class="css-uo06to"></div></div><p class="css-135eg6y"><span color="#e7d87c" class="css-18p4zpc"></span>‘매혹’과 ‘매력’부터 구분해 보자</p><div class="css-139jjve"><span class="css-kqjshd"><p>2021.05.18.</p></span><div tabindex="1" class="icon-dotdotdot css-hj07n5"></div></div></li><li class="css-vgz3sg"><div class="css-25agpy"><div class="css-uo06to"></div></div><p class="css-135eg6y"><span color="#e7d87c" class="css-18p4zpc"></span>다시 말해서 ‘매력’이란 ‘도깨비처럼 끄는 힘’을 말하고, ‘매혹’은 그렇게 유혹하여 빠져들게 하는 것이다. “저 사람 참 매력 있다”를 넘어 “저 사람 말은 다 옳아”의 수준에 이르는 것을 말한다.</p><div class="css-139jjve"><span class="css-kqjshd"><p>2021.05.18.</p></span><div tabindex="1" class="icon-dotdotdot css-hj07n5"></div></div></li></ul></div></article></section></div>
-          </div>
-        </div><hr>
-        <p class="indent_hidden">본문 끝 <a href="#ridi_books">최상단으로 돌아가기</a></p>
-
-        <div id="__next__footer">
-          <section id="new_footer" class="css-lnjn6q"><footer class="css-7l0kmm-FooterWrapper e1luyj910"><div class="css-1k4u5wr-FlexBox-Footer e1luyj911"><ul class="css-fztbtk"><li><a href="https://help.ridibooks.com/hc/ko" target="_blank" rel="noopener" class="css-19pl905-StyledAnchor e1luyj912"><span class="css-pbh9cn-serviceNumber-serviceCenter">고객센터</span></a></li><li><a href="https://help.ridibooks.com/hc/ko/sections/360002578234" target="_blank" rel="noopener" class="css-19pl905-StyledAnchor e1luyj912"><span class="css-pbh9cn-serviceNumber-serviceCenter">공지사항</span></a></li></ul><ul class="css-17rb9vf-FooterMenuWrapper e1luyj913"><li><ul class="css-6ngyvi-FooterMenuSection e1luyj914"><li><a href="https://paper.ridibooks.com" aria-label="리디 페이퍼" class="css-19pl905-StyledAnchor e1luyj912"><svg width="77" height="11" fill="none" class="css-r7sth-paperIcon"><path d="M6.66 7.144c1.184-.542 1.783-1.63 1.783-3.236 0-1.446-.346-2.469-1.031-3.04C6.72.294 5.577 0 4.012 0H.372C.101 0 0 .097 0 .356v10.287c0 .26.101.355.371.355h2.215c.272 0 .373-.097.373-.355V7.64h.825l.036.07 1.477 2.944c.121.235.316.343.611.343h2.248c.19 0 .218-.063.23-.087.035-.078.017-.181-.052-.309L6.538 7.346l-.065-.116.124-.057.064-.029zM5.119 5.037c-.218.24-.6.362-1.14.362H2.96V2.4h1.02c.545 0 .916.113 1.136.343.216.225.32.607.32 1.165 0 .524-.104.892-.317 1.129zM13.161.356v10.287c0 .26-.101.355-.371.355h-2.232c-.271 0-.373-.097-.373-.355V.356c0-.26.102-.356.373-.356h2.232c.27 0 .371.097.371.356zM18.728 0h-3.27c-.27 0-.37.097-.37.356v10.287c0 .26.1.355.37.355h3.306c1.7 0 2.947-.414 3.71-1.23.768-.824 1.158-2.26 1.158-4.269 0-2.01-.392-3.447-1.165-4.268C21.697.414 20.44 0 18.728 0zm1.477 7.867c-.295.442-.808.666-1.526.666h-.618V2.465H18.645c.716 0 1.235.223 1.54.663.294.422.436 1.197.436 2.371.001 1.173-.136 1.948-.416 2.368zM28.367.356v10.287c0 .26-.1.355-.372.355h-2.231c-.272 0-.372-.097-.372-.355V.356c0-.26.102-.356.372-.356h2.231c.27 0 .372.097.372.356zM49.024 10.6L44.887.33c-.068-.186-.142-.33-.43-.33h-1c-.29 0-.363.144-.428.33l-4.14 10.274a.3.3 0 00.04.28.314.314 0 00.256.114h.881c.253 0 .317-.165.37-.299l1.023-2.604h5.005l1.02 2.606c.055.144.136.297.382.297h.866c.11 0 .201-.04.257-.114a.314.314 0 00.035-.284zm-7.017-3.909l1.957-4.981 1.948 4.981h-3.905zm18.194 4.307c-.24 0-.362-.122-.362-.364V.35c0-.224.123-.349.346-.349h6.825c.23 0 .361.128.361.35v.706c0 .225-.138.364-.361.364H61.32v3.374h5.525c.22 0 .346.133.346.364v.645c0 .232-.126.364-.346.364h-5.525v3.411h5.734c.23 0 .362.128.362.35v.692c0 .33-.227.38-.362.38H60.2v-.002zm-28.426 0c-.233 0-.361-.129-.361-.364V.364c0-.231.126-.364.345-.364h3.135c3.098 0 4.48 1.063 4.48 3.728 0 2.654-1.38 3.714-4.48 3.714h-1.983v3.192c0 .225-.139.364-.361.364h-.775zm3.12-4.975c2.124 0 2.951-.553 2.951-2.293 0-1.752-.827-2.31-2.952-2.31h-1.983v4.603h1.983zm15.689 4.975c-.233 0-.361-.129-.361-.364V.364c0-.231.126-.364.346-.364h3.134c3.098 0 4.48 1.063 4.48 3.728 0 2.654-1.38 3.714-4.48 3.714H51.72v3.192c0 .225-.138.364-.361.364h-.775zm3.121-4.975c2.125 0 2.952-.553 2.952-2.293 0-1.752-.827-2.31-2.952-2.31h-1.983v4.603h1.983zm21.157 1.115C76.324 6.658 77 5.583 77 3.728 77 1.064 75.617 0 72.52 0h-3.134c-.22 0-.346.133-.346.364v10.27c0 .235.128.364.361.364h.776c.223 0 .362-.139.362-.364v-3.19h1.983c.265 0 .518-.009.76-.025l2.04 3.343c.119.14.22.238.456.238h.91c.176 0 .252-.087.28-.14.056-.1.04-.235-.047-.365l-2.058-3.357zm-4.326-1.115V1.42h1.983c2.126 0 2.953.556 2.953 2.31 0 1.74-.827 2.293-2.953 2.293h-1.983z" fill="#fff"></path></svg></a></li><li><a href="https://ridibooks.com/support/partner-card" class="css-19pl905-StyledAnchor e1luyj912"><span class="css-14w6lz7-FooterMenuLabel e1luyj915">제휴카드</span></a></li><li><a href="https://ridibooks.com/support/app/download" class="css-19pl905-StyledAnchor e1luyj912"><span class="css-14w6lz7-FooterMenuLabel e1luyj915">뷰어 다운로드</span></a></li><li><a href="https://ridibooks.com/order/checkout/cash" class="css-19pl905-StyledAnchor e1luyj912"><span class="css-14w6lz7-FooterMenuLabel e1luyj915">리디캐시 충전</span></a></li></ul></li><li class="css-i6s7t4-hiddenMenu"><ul class="css-6ngyvi-FooterMenuSection e1luyj914"><li><a target="_blank" rel="noopener" href="https://help.ridibooks.com/hc/ko/articles/360046896553" class="css-19pl905-StyledAnchor e1luyj912"><span class="css-14w6lz7-FooterMenuLabel e1luyj915">콘텐츠 제공 문의</span></a></li><li><a href="https://cp.ridibooks.com" target="_blank" rel="noopener" class="css-19pl905-StyledAnchor e1luyj912"><span class="css-14w6lz7-FooterMenuLabel e1luyj915">CP 사이트</span></a></li><li><a href="/cdn-cgi/l/email-protection#a2c0cbd8e2d0cbc6cb8cc1cdcf" class="css-19pl905-StyledAnchor e1luyj912"><span class="css-14w6lz7-FooterMenuLabel e1luyj915">사업 제휴 문의</span></a></li><li><a href="https://help.ridibooks.com/hc/ko/articles/360058140713-RIDI-Biz-%ED%98%91%EC%97%85-%EB%AC%B8%EC%9D%98" target="_blank" rel="noopener" class="css-19pl905-StyledAnchor e1luyj912"><span class="css-14w6lz7-FooterMenuLabel e1luyj915">페이퍼 대량구매 안내</span></a></li></ul></li><li class="css-i6s7t4-hiddenMenu"><ul class="css-6ngyvi-FooterMenuSection e1luyj914"><li><a href="https://www.facebook.com/ridibooks" target="_blank" rel="noopener" class="css-19pl905-StyledAnchor e1luyj912"><span class="css-14w6lz7-FooterMenuLabel e1luyj915">페이스북</span></a></li><li><a href="https://instagram.com/ridipaper/" target="_blank" rel="noopener" class="css-19pl905-StyledAnchor e1luyj912"><span class="css-14w6lz7-FooterMenuLabel e1luyj915">인스타그램</span></a></li></ul></li><li><ul class="css-6ngyvi-FooterMenuSection e1luyj914"><li class="css-1e5jxz2-FooterMenu"><a href="https://www.ridicorp.com/" target="_blank" rel="noopener" class="css-19pl905-StyledAnchor e1luyj912"><span class="css-14w6lz7-FooterMenuLabel e1luyj915">회사 소개</span></a></li><li class="css-i7dbo1-FooterMenu"><a href="https://www.ridicorp.com/career/" target="_blank" rel="noopener" class="css-19pl905-StyledAnchor e1luyj912"><span class="css-14w6lz7-FooterMenuLabel e1luyj915">인재 채용</span><svg viewBox="0 0 12 12" class="css-1mklzc6-FooterMenu"><path d="M9.415 9.488H7.727L4.464 5.602v3.886H2.585V2.512h1.684l3.254 3.866V2.512h1.892v6.976zM10.8 0H1.2C.525 0 0 .525 0 1.5v9.6c0 .375.525.9 1.2.9h9.6c.65 0 1.2-.55 1.2-1.2V1.2c0-.675-.525-1.2-1.2-1.2z"></path></svg></a></li><li class="css-119xuoj-FooterMenu"><input type="checkbox" id="toggle" name="toggle" class="css-vqpegj-FooterMenu"><label for="toggle" class="css-cgknm0-FooterMenu"><span class="css-u902yz-FooterMenu">더 보기</span><svg width="11" height="14" class="css-1lvvnzu-FooterMenu"><path d="M1.78 13.013L7.68 7 1.78.987 2.75 0l6.875 7-6.875 7z"></path></svg></label><ul class="css-1uiejfq-FooterMenuSection-FooterMenu e1luyj914"><li><a target="_blank" rel="noopener" href="https://help.ridibooks.com/hc/ko/articles/360046896553" class="css-19pl905-StyledAnchor e1luyj912"><span class="css-14w6lz7-FooterMenuLabel e1luyj915">콘텐츠 제공 문의</span></a></li><li><a href="https://cp.ridibooks.com" target="_blank" rel="noopener" class="css-19pl905-StyledAnchor e1luyj912"><span class="css-14w6lz7-FooterMenuLabel e1luyj915">CP 사이트</span></a></li><li><a href="/cdn-cgi/l/email-protection#fd9f9487bd8f949994d39e9290"><span class="css-14w6lz7-FooterMenuLabel e1luyj915">사업 제휴 문의</span></a></li><li><a href="https://help.ridibooks.com/hc/ko/articles/360058140713-RIDI-Biz-%ED%98%91%EC%97%85-%EB%AC%B8%EC%9D%98" target="_blank" rel="noopener"><span class="css-14w6lz7-FooterMenuLabel e1luyj915">페이퍼 대량구매 안내</span></a></li></ul></li></ul></li></ul></div><div class="css-1pd91yx-InformationWrapper ejumctn0"><div class="css-gvlxmk-InformationMore ejumctn2">리디(주) 사업자 정보<svg width="11" height="14" class="css-ppjt9c-BusinessInformation"><path d="M1.78 13.013L7.68 7 1.78.987 2.75 0l6.875 7-6.875 7z"></path></svg></div></div><div class="css-15vx765-MiscWrapper e1luyj916"><p class="museo css-1v0xexo-Copyright e1luyj917">© RIDI Corp.</p><ul class="css-xxukf0"><li><a href="https://policy.ridi.com/legal/terms" target="_blank" rel="noopener" class="css-19pl905-StyledAnchor e1luyj912"><span class="css-1baptrx-MiscMenuLabel e1luyj918">이용 약관</span></a></li><li><a href="https://policy.ridi.com/legal/privacy" target="_blank" rel="noopener" class="css-19pl905-StyledAnchor e1luyj912"><span class="css-k8cd2u-MiscMenuLabel-Footer e1luyj918">개인 정보 처리 방침</span></a></li><li><a href="https://policy.ridi.com/legal/youth" target="_blank" rel="noopener" class="css-19pl905-StyledAnchor e1luyj912"><span class="css-1baptrx-MiscMenuLabel e1luyj918">청소년 보호 정책</span></a></li><li><a href="http://ftc.go.kr/info/bizinfo/communicationList.jsp" target="_blank" rel="noopener" class="css-19pl905-StyledAnchor e1luyj912"><span class="css-1baptrx-MiscMenuLabel e1luyj918">사업자 정보 확인</span></a></li></ul></div></footer></section>
+            <div class="css-18obxw2">
+                <div width="130px" class="css-63wo4i">
+                    <div class="css-vr3ehw"><span class="css-1ks8az8"><span class="icon-highlighter_1 css-17kgo3n">
+                            </span><span class="css-r276py">전체
+                            </span><span class="css-snpzj3"> 3
+                            </span><span class="css-19q4yt">
+                            </span>
+                        </span>
+                    </div>
+                    <ul class="css-1wbg184">
+                        <li data-name="total" class="css-x6anio"><span class="icon-highlighter_1 css-17kgo3n">
+                            </span><span class="css-r276py">전체
+                            </span><span class="css-snpzj3"> 3
+                            </span><span class="icon-check_1 css-1dq72b9">
+                            </span>
+                        </li>
+                        <li data-name="yellow" class="css-1c9virz"><span color="color_highlighter_yellow" class="css-1kupmiy">
+                            </span><span class="css-1buzbdi">노랑
+                            </span><span class="css-snpzj3"> 3
+                            </span>
+                        </li>
+                    </ul>
+                </div>
+                <ul class="css-1jrt56o">
+                    <li class="css-vgz3sg">
+                        <div class="css-25agpy">
+                            <div class="css-uo06to">
+                            </div>
+                        </div>
+                        <p class="css-135eg6y">
+                            <span color="#e7d87c" class="css-18p4zpc">
+                            </span>눈과 귀가 바쁜 요즘 시대일지라도 말 몇 마디로, 글 몇 문장으로 사람들의 시선을 사로잡을 수 있다. 매혹적인 대화법은 상대의 눈과 마음을 사로잡고, 말 몇 마디로 상대를 내 편으로 만들고, 그를 행동하게 만드는 마력을 갖고 있기 때문이다
+                        </p>
+                        <div class="css-139jjve"><span class="css-kqjshd">
+                                <p>2021.05.18.
+                                </p>
+                            </span>
+                            <div tabindex="1" class="icon-dotdotdot css-hj07n5">
+                            </div>
+                        </div>
+                    </li>
+                    <li class="css-vgz3sg">
+                        <div class="css-25agpy">
+                            <div class="css-uo06to">
+                            </div>
+                        </div>
+                        <p class="css-135eg6y"><span color="#e7d87c" class="css-18p4zpc">
+                            </span>‘매혹’과 ‘매력’부터 구분해 보자
+                        </p>
+                        <div class="css-139jjve"><span class="css-kqjshd">
+                                <p>2021.05.18.
+                                </p>
+                            </span>
+                            <div tabindex="1" class="icon-dotdotdot css-hj07n5">
+                            </div>
+                        </div>
+                    </li>
+                    <li class="css-vgz3sg">
+                        <div class="css-25agpy">
+                            <div class="css-uo06to">
+                            </div>
+                        </div>
+                        <p class="css-135eg6y"><span color="#e7d87c" class="css-18p4zpc">
+                            </span>다시 말해서 ‘매력’이란 ‘도깨비처럼 끄는 힘’을 말하고, ‘매혹’은 그렇게 유혹하여 빠져들게 하는 것이다. “저 사람 참 매력 있다”를 넘어 “저 사람 말은 다 옳아”의 수준에 이르는 것을 말한다.
+                        </p>
+                        <div class="css-139jjve"><span class="css-kqjshd">
+                                <p>2021.05.18.
+                                </p>
+                            </span>
+                            <div tabindex="1" class="icon-dotdotdot css-hj07n5">
+                            </div>
+                        </div>
+                    </li>
+                </ul>
+            </div>
+        </article>
+    </section>
+</div>
+</div>
+</div>
+<hr>
+<p class="indent_hidden">본문 끝 <a href="#ridi_books">최상단으로 돌아가기
+    </a>
+</p>
+<div id="__next__footer">
+    <section id="new_footer" class="css-lnjn6q">
+        <footer class="css-7l0kmm-FooterWrapper e1luyj910">
+            <div class="css-1k4u5wr-FlexBox-Footer e1luyj911">
+                <ul class="css-fztbtk">
+                    <li><a href="https://help.ridibooks.com/hc/ko" target="_blank" rel="noopener" class="css-19pl905-StyledAnchor e1luyj912"><span class="css-pbh9cn-serviceNumber-serviceCenter">고객센터
+                            </span>
+                        </a>
+                    </li>
+                    <li><a href="https://help.ridibooks.com/hc/ko/sections/360002578234" target="_blank" rel="noopener" class="css-19pl905-StyledAnchor e1luyj912"><span class="css-pbh9cn-serviceNumber-serviceCenter">공지사항
+                            </span>
+                        </a>
+                    </li>
+                </ul>
+                <ul class="css-17rb9vf-FooterMenuWrapper e1luyj913">
+                    <li>
+                        <ul class="css-6ngyvi-FooterMenuSection e1luyj914">
+                            <li><a href="https://paper.ridibooks.com" aria-label="리디 페이퍼" class="css-19pl905-StyledAnchor e1luyj912"><svg width="77" height="11" fill="none" class="css-r7sth-paperIcon">
+                                        <path d="M6.66 7.144c1.184-.542 1.783-1.63 1.783-3.236 0-1.446-.346-2.469-1.031-3.04C6.72.294 5.577 0 4.012 0H.372C.101 0 0 .097 0 .356v10.287c0 .26.101.355.371.355h2.215c.272 0 .373-.097.373-.355V7.64h.825l.036.07 1.477 2.944c.121.235.316.343.611.343h2.248c.19 0 .218-.063.23-.087.035-.078.017-.181-.052-.309L6.538 7.346l-.065-.116.124-.057.064-.029zM5.119 5.037c-.218.24-.6.362-1.14.362H2.96V2.4h1.02c.545 0 .916.113 1.136.343.216.225.32.607.32 1.165 0 .524-.104.892-.317 1.129zM13.161.356v10.287c0 .26-.101.355-.371.355h-2.232c-.271 0-.373-.097-.373-.355V.356c0-.26.102-.356.373-.356h2.232c.27 0 .371.097.371.356zM18.728 0h-3.27c-.27 0-.37.097-.37.356v10.287c0 .26.1.355.37.355h3.306c1.7 0 2.947-.414 3.71-1.23.768-.824 1.158-2.26 1.158-4.269 0-2.01-.392-3.447-1.165-4.268C21.697.414 20.44 0 18.728 0zm1.477 7.867c-.295.442-.808.666-1.526.666h-.618V2.465H18.645c.716 0 1.235.223 1.54.663.294.422.436 1.197.436 2.371.001 1.173-.136 1.948-.416 2.368zM28.367.356v10.287c0 .26-.1.355-.372.355h-2.231c-.272 0-.372-.097-.372-.355V.356c0-.26.102-.356.372-.356h2.231c.27 0 .372.097.372.356zM49.024 10.6L44.887.33c-.068-.186-.142-.33-.43-.33h-1c-.29 0-.363.144-.428.33l-4.14 10.274a.3.3 0 00.04.28.314.314 0 00.256.114h.881c.253 0 .317-.165.37-.299l1.023-2.604h5.005l1.02 2.606c.055.144.136.297.382.297h.866c.11 0 .201-.04.257-.114a.314.314 0 00.035-.284zm-7.017-3.909l1.957-4.981 1.948 4.981h-3.905zm18.194 4.307c-.24 0-.362-.122-.362-.364V.35c0-.224.123-.349.346-.349h6.825c.23 0 .361.128.361.35v.706c0 .225-.138.364-.361.364H61.32v3.374h5.525c.22 0 .346.133.346.364v.645c0 .232-.126.364-.346.364h-5.525v3.411h5.734c.23 0 .362.128.362.35v.692c0 .33-.227.38-.362.38H60.2v-.002zm-28.426 0c-.233 0-.361-.129-.361-.364V.364c0-.231.126-.364.345-.364h3.135c3.098 0 4.48 1.063 4.48 3.728 0 2.654-1.38 3.714-4.48 3.714h-1.983v3.192c0 .225-.139.364-.361.364h-.775zm3.12-4.975c2.124 0 2.951-.553 2.951-2.293 0-1.752-.827-2.31-2.952-2.31h-1.983v4.603h1.983zm15.689 4.975c-.233 0-.361-.129-.361-.364V.364c0-.231.126-.364.346-.364h3.134c3.098 0 4.48 1.063 4.48 3.728 0 2.654-1.38 3.714-4.48 3.714H51.72v3.192c0 .225-.138.364-.361.364h-.775zm3.121-4.975c2.125 0 2.952-.553 2.952-2.293 0-1.752-.827-2.31-2.952-2.31h-1.983v4.603h1.983zm21.157 1.115C76.324 6.658 77 5.583 77 3.728 77 1.064 75.617 0 72.52 0h-3.134c-.22 0-.346.133-.346.364v10.27c0 .235.128.364.361.364h.776c.223 0 .362-.139.362-.364v-3.19h1.983c.265 0 .518-.009.76-.025l2.04 3.343c.119.14.22.238.456.238h.91c.176 0 .252-.087.28-.14.056-.1.04-.235-.047-.365l-2.058-3.357zm-4.326-1.115V1.42h1.983c2.126 0 2.953.556 2.953 2.31 0 1.74-.827 2.293-2.953 2.293h-1.983z" fill="#fff">
+                                        </path>
+                                    </svg>
+                                </a>
+                            </li>
+                            <li><a href="https://ridibooks.com/support/partner-card" class="css-19pl905-StyledAnchor e1luyj912"><span class="css-14w6lz7-FooterMenuLabel e1luyj915">제휴카드
+                                    </span>
+                                </a>
+                            </li>
+                            <li><a href="https://ridibooks.com/support/app/download" class="css-19pl905-StyledAnchor e1luyj912"><span class="css-14w6lz7-FooterMenuLabel e1luyj915">뷰어 다운로드
+                                    </span>
+                                </a>
+                            </li>
+                            <li><a href="https://ridibooks.com/order/checkout/cash" class="css-19pl905-StyledAnchor e1luyj912"><span class="css-14w6lz7-FooterMenuLabel e1luyj915">리디캐시 충전
+                                    </span>
+                                </a>
+                            </li>
+                        </ul>
+                    </li>
+                    <li class="css-i6s7t4-hiddenMenu">
+                        <ul class="css-6ngyvi-FooterMenuSection e1luyj914">
+                            <li><a target="_blank" rel="noopener" href="https://help.ridibooks.com/hc/ko/articles/360046896553" class="css-19pl905-StyledAnchor e1luyj912"><span class="css-14w6lz7-FooterMenuLabel e1luyj915">콘텐츠 제공 문의
+                                    </span>
+                                </a>
+                            </li>
+                            <li><a href="https://cp.ridibooks.com" target="_blank" rel="noopener" class="css-19pl905-StyledAnchor e1luyj912"><span class="css-14w6lz7-FooterMenuLabel e1luyj915">CP 사이트
+                                    </span>
+                                </a>
+                            </li>
+                            <li><a href="/cdn-cgi/l/email-protection#a2c0cbd8e2d0cbc6cb8cc1cdcf" class="css-19pl905-StyledAnchor e1luyj912"><span class="css-14w6lz7-FooterMenuLabel e1luyj915">사업 제휴 문의
+                                    </span>
+                                </a>
+                            </li>
+                            <li><a href="https://help.ridibooks.com/hc/ko/articles/360058140713-RIDI-Biz-%ED%98%91%EC%97%85-%EB%AC%B8%EC%9D%98" target="_blank" rel="noopener" class="css-19pl905-StyledAnchor e1luyj912"><span class="css-14w6lz7-FooterMenuLabel e1luyj915">페이퍼 대량구매 안내
+                                    </span>
+                                </a>
+                            </li>
+                        </ul>
+                    </li>
+                    <li class="css-i6s7t4-hiddenMenu">
+                        <ul class="css-6ngyvi-FooterMenuSection e1luyj914">
+                            <li><a href="https://www.facebook.com/ridibooks" target="_blank" rel="noopener" class="css-19pl905-StyledAnchor e1luyj912"><span class="css-14w6lz7-FooterMenuLabel e1luyj915">페이스북
+                                    </span>
+                                </a>
+                            </li>
+                            <li><a href="https://instagram.com/ridipaper/" target="_blank" rel="noopener" class="css-19pl905-StyledAnchor e1luyj912"><span class="css-14w6lz7-FooterMenuLabel e1luyj915">인스타그램
+                                    </span>
+                                </a>
+                            </li>
+                        </ul>
+                    </li>
+                    <li>
+                        <ul class="css-6ngyvi-FooterMenuSection e1luyj914">
+                            <li class="css-1e5jxz2-FooterMenu"><a href="https://www.ridicorp.com/" target="_blank" rel="noopener" class="css-19pl905-StyledAnchor e1luyj912"><span class="css-14w6lz7-FooterMenuLabel e1luyj915">회사 소개
+                                    </span>
+                                </a>
+                            </li>
+                            <li class="css-i7dbo1-FooterMenu"><a href="https://www.ridicorp.com/career/" target="_blank" rel="noopener" class="css-19pl905-StyledAnchor e1luyj912"><span class="css-14w6lz7-FooterMenuLabel e1luyj915">인재 채용
+                                    </span><svg viewBox="0 0 12 12" class="css-1mklzc6-FooterMenu">
+                                        <path d="M9.415 9.488H7.727L4.464 5.602v3.886H2.585V2.512h1.684l3.254 3.866V2.512h1.892v6.976zM10.8 0H1.2C.525 0 0 .525 0 1.5v9.6c0 .375.525.9 1.2.9h9.6c.65 0 1.2-.55 1.2-1.2V1.2c0-.675-.525-1.2-1.2-1.2z">
+                                        </path>
+                                    </svg>
+                                </a>
+                            </li>
+                            <li class="css-119xuoj-FooterMenu"><input type="checkbox" id="toggle" name="toggle" class="css-vqpegj-FooterMenu"><label for="toggle" class="css-cgknm0-FooterMenu"><span class="css-u902yz-FooterMenu">더 보기
+                                    </span><svg width="11" height="14" class="css-1lvvnzu-FooterMenu">
+                                        <path d="M1.78 13.013L7.68 7 1.78.987 2.75 0l6.875 7-6.875 7z">
+                                        </path>
+                                    </svg>
+                                </label>
+                                <ul class="css-1uiejfq-FooterMenuSection-FooterMenu e1luyj914">
+                                    <li><a target="_blank" rel="noopener" href="https://help.ridibooks.com/hc/ko/articles/360046896553" class="css-19pl905-StyledAnchor e1luyj912"><span class="css-14w6lz7-FooterMenuLabel e1luyj915">콘텐츠 제공 문의
+                                            </span>
+                                        </a>
+                                    </li>
+                                    <li><a href="https://cp.ridibooks.com" target="_blank" rel="noopener" class="css-19pl905-StyledAnchor e1luyj912"><span class="css-14w6lz7-FooterMenuLabel e1luyj915">CP 사이트
+                                            </span>
+                                        </a>
+                                    </li>
+                                    <li><a href="/cdn-cgi/l/email-protection#fd9f9487bd8f949994d39e9290"><span class="css-14w6lz7-FooterMenuLabel e1luyj915">사업 제휴 문의
+                                            </span>
+                                        </a>
+                                    </li>
+                                    <li><a href="https://help.ridibooks.com/hc/ko/articles/360058140713-RIDI-Biz-%ED%98%91%EC%97%85-%EB%AC%B8%EC%9D%98" target="_blank" rel="noopener"><span class="css-14w6lz7-FooterMenuLabel e1luyj915">페이퍼 대량구매 안내
+                                            </span>
+                                        </a>
+                                    </li>
+                                </ul>
+                            </li>
+                        </ul>
+                    </li>
+                </ul>
+            </div>
+            <div class="css-1pd91yx-InformationWrapper ejumctn0">
+                <div class="css-gvlxmk-InformationMore ejumctn2">리디(주) 사업자 정보<svg width="11" height="14" class="css-ppjt9c-BusinessInformation">
+                        <path d="M1.78 13.013L7.68 7 1.78.987 2.75 0l6.875 7-6.875 7z">
+                        </path>
+                    </svg>
+                </div>
+            </div>
+            <div class="css-15vx765-MiscWrapper e1luyj916">
+                <p class="museo css-1v0xexo-Copyright e1luyj917">© RIDI Corp.
+                </p>
+                <ul class="css-xxukf0">
+                    <li><a href="https://policy.ridi.com/legal/terms" target="_blank" rel="noopener" class="css-19pl905-StyledAnchor e1luyj912"><span class="css-1baptrx-MiscMenuLabel e1luyj918">이용 약관
+                            </span>
+                        </a>
+                    </li>
+                    <li><a href="https://policy.ridi.com/legal/privacy" target="_blank" rel="noopener" class="css-19pl905-StyledAnchor e1luyj912"><span class="css-k8cd2u-MiscMenuLabel-Footer e1luyj918">개인 정보 처리 방침
+                            </span>
+                        </a>
+                    </li>
+                    <li><a href="https://policy.ridi.com/legal/youth" target="_blank" rel="noopener" class="css-19pl905-StyledAnchor e1luyj912"><span class="css-1baptrx-MiscMenuLabel e1luyj918">청소년 보호 정책
+                            </span>
+                        </a>
+                    </li>
+                    <li><a href="http://ftc.go.kr/info/bizinfo/communicationList.jsp" target="_blank" rel="noopener" class="css-19pl905-StyledAnchor e1luyj912"><span class="css-1baptrx-MiscMenuLabel e1luyj918">사업자 정보 확인
+                            </span>
+                        </a>
+                    </li>
+                </ul>
+            </div>
+        </footer>
+    </section>
+</div>
+</div>
+<div id="base_popup_and_spinner_wrapper">
+    <div id="full_page_spinner">
+        <div class="spinner_dimmed_bg">
         </div>
-      </div>
-      <div id="base_popup_and_spinner_wrapper">
-        <div id="full_page_spinner">
-          <div class="spinner_dimmed_bg"></div>
-          <div class="spinner_wrapper">
+        <div class="spinner_wrapper">
             <img class="spinner" src="https://static.ridicdn.net/books/dist/images/spinner/full_page_spinner.gif" alt="spinner">
-          </div>
         </div>
-        <div class="mobile_view_button_wrapper">
-          <a href="/device/m" class="mobile_view_button rui_button_white_40"><span class="mobile_view_button_icon icon-mobile"></span>모바일 버전</a>
-        </div>
+    </div>
+    <div class="mobile_view_button_wrapper">
+        <a href="/device/m" class="mobile_view_button rui_button_white_40"><span class="mobile_view_button_icon icon-mobile">
+            </span>모바일 버전
+        </a>
+    </div>
+    <div id="modal">
+    </div>
+    <section id="dialog" class="is-pc" style="display: none;">
+    </section>
+    <iframe id="iframe_book_download" width="0" height="0" title="내용없음">
+    </iframe>
+</div>
+<div id="base_script_wrapper">
+    <script>
+    window.isPartials = true;
+    window.Ridi.ModalContext = {
+        ssl_host_link: 'https://ridibooks.com',
+        ssl_account_host_link: 'https://account.ridibooks.com',
+        oauth2_client_id: 'ePgbKKRyPvdAFzTvFg2DvrS7GenfstHdkQ2uvFNd',
+    };
+    </script>
+    <script src="https://static.ridicdn.net/store/dist/reading_note.min.js?20210517140257">
+    </script>
+    <script>
+    window.dispatchEvent(new CustomEvent('readingNoteLoaded', {
+        detail: {
+            targetElementId: 'app',
+        }
+    }));
+    </script>
+    <!-- Naver Premium Log Analytics Common Script -->
+    <script type="text/javascript" src="//wcs.naver.net/wcslog.js">
+    </script>
+    <script type="text/javascript">
+    if (!wcs_add) var wcs_add = {};
+    if (!_nasa) var _nasa = {};
+    if (typeof wcs !== 'undefined') {
+        wcs_add["wa"] = "s_116898344f34";
+        wcs.inflow("ridibooks.com");
+        wcs_do(_nasa);
+    }
+    </script>
+    <script src="https://unpkg.com/@ridi/event-client@0.2.7/dist/umd/bundle.min.js">
+    </script>
+    <script>
+    var platform = {
+        isMobile: false,
+        isPaper: false,
+    };
+    var isLoggedIn = false;
 
-        <div id="modal"></div>
-        <section id="dialog" class="is-pc" style="display: none;"></section>
-        <iframe id="iframe_book_download" width="0" height="0" title="내용없음"></iframe>
-      </div>
-      <div id="base_script_wrapper">
-        <script>
-          window.isPartials = true;
-          window.Ridi.ModalContext = {
-            ssl_host_link: 'https://ridibooks.com',
-            ssl_account_host_link: 'https://account.ridibooks.com',
-            oauth2_client_id: 'ePgbKKRyPvdAFzTvFg2DvrS7GenfstHdkQ2uvFNd',
-          };
-        </script>
-        <script src="https://static.ridicdn.net/store/dist/reading_note.min.js?20210517140257"></script>
-        <script>
-          window.dispatchEvent(new CustomEvent('readingNoteLoaded', {
-            detail: {
-              targetElementId: 'app',
-            }
-          }));
-        </script>
-        <!-- Naver Premium Log Analytics Common Script -->
-        <script type="text/javascript" src="//wcs.naver.net/wcslog.js"></script>
-        <script type="text/javascript">
-          if(!wcs_add) var wcs_add = {};
-          if(!_nasa) var _nasa={};
-          if(typeof wcs !== 'undefined') {
-            wcs_add["wa"] = "s_116898344f34";
-            wcs.inflow("ridibooks.com");
-            wcs_do(_nasa);
-          }
-        </script>
-        <script src="https://unpkg.com/@ridi/event-client@0.2.7/dist/umd/bundle.min.js"></script>
-        <script>
-          var platform = {
-            isMobile: false,
-            isPaper: false,
-          };
-          var isLoggedIn = false;
+    var deviceType;
+    if (platform.isMobile) {
+        deviceType = 'mobile';
+    } else if (platform.isPaper) {
+        deviceType = 'paper';
+    } else {
+        deviceType = 'pc';
+    }
+    var ridiEventClient = new EventClient({
+        trackingId: 'GTM-TRFJGGB',
+        deviceType: deviceType,
+        uId: undefined,
+        autoPageView: true,
+    });
+    window.ridiEventClient = ridiEventClient;
+    </script>
+</div>
+<script id="__NEXT_DATA__" type="application/json" nonce="">
+{ "props": { "initialProps": { "pageProps": { "is_login": "true", "pathname": "/reading-note/detail/2234001683" }, "theme": "", "stage": "", "query": { "is_login": "true", "pathname": "/reading-note/detail/2234001683" } }, "initialState": { "books": { "items": {}, "isAvailableSelect": {}, "desc": {} }, "categories": { "items": {} } } }, "page": "/partials/gnb", "query": { "is_login": "true", "pathname": "/reading-note/detail/2234001683" }, "buildId": "Fmr670y3ul4jgmswuXaTu", "assetPrefix": "https://books.ridicdn.net", "isFallback": false, "customServer": true, "gip": true, "appGip": true, "ids": [] }
+</script>
+<script nonce="" nomodule="" src="https://books.ridicdn.net/_next/static/runtime/polyfills-0a77ede13633b1bb76af.js">
+</script>
+<script async="" data-next-page="/partials/gnb" src="https://books.ridicdn.net/_next/static/Fmr670y3ul4jgmswuXaTu/pages/partials/gnb.js" nonce="">
+</script>
+<script async="" data-next-page="/_app" src="https://books.ridicdn.net/_next/static/Fmr670y3ul4jgmswuXaTu/pages/_app.js" nonce="">
+</script>
+<script src="https://books.ridicdn.net/_next/static/runtime/webpack-bc518a019c6923cc0550.js" nonce="" async="">
+</script>
+<script src="https://books.ridicdn.net/_next/static/chunks/framework.5a6fd18fd7776ae00af7.js" nonce="" async="">
+</script>
+<script src="https://books.ridicdn.net/_next/static/chunks/28d15158.92a33618818d4a9addc1.js" nonce="" async="">
+</script>
+<script src="https://books.ridicdn.net/_next/static/chunks/8fc4b86d.5d7b6a7a465260eb4125.js" nonce="" async="">
+</script>
+<script src="https://books.ridicdn.net/_next/static/chunks/32bd1e1c.a9b5d736669a0417a039.js" nonce="" async="">
+</script>
+<script src="https://books.ridicdn.net/_next/static/chunks/2f8d33e8.0c44e5b1595dca45886f.js" nonce="" async="">
+</script>
+<script src="https://books.ridicdn.net/_next/static/chunks/af8940d5.42c46582cc137d1fe19b.js" nonce="" async="">
+</script>
+<script src="https://books.ridicdn.net/_next/static/chunks/commons.0a0fa3ad468fd642729e.js" nonce="" async="">
+</script>
+<script src="https://books.ridicdn.net/_next/static/chunks/09c5c6d6dbc6fc797543752bdf983ce42923a4d4.ed635fe18510b32b0833.js" nonce="" async="">
+</script>
+<script src="https://books.ridicdn.net/_next/static/chunks/35cf5689c451a6769f7e3ec5ab262ff615d9a2d8.eb58587de4bb95fed90e.js" nonce="" async="">
+</script>
+<script src="https://books.ridicdn.net/_next/static/chunks/166bbe251052a9149a310d00783668c21cfbab6b.e0ebdf0e80f984b85f4d.js" nonce="" async="">
+</script>
+<script src="https://books.ridicdn.net/_next/static/chunks/22aa3cf75b882d79e4dea27566783c2fff341933.276ce6147a391094693d.js" nonce="" async="">
+</script>
+<script src="https://books.ridicdn.net/_next/static/chunks/3050b77edf4b71cb0705791385c1f37ac9379306.ead8aa031edd0341f4d6.js" nonce="" async="">
+</script>
+<script src="https://books.ridicdn.net/_next/static/chunks/124413ad38acb4c768c2d4591bfd022927b7b765.8aaac64e70ef75cce20c.js" nonce="" async="">
+</script>
+<script src="https://books.ridicdn.net/_next/static/chunks/6380b0ccf901e3d6a1598008b03e20400114d5bc.c4a7425a595baaee997f.js" nonce="" async="">
+</script>
+<script src="https://books.ridicdn.net/_next/static/runtime/main-2e6f585d9bb1839f277e.js" nonce="" async="">
+</script>
+<script src="https://books.ridicdn.net/_next/static/Fmr670y3ul4jgmswuXaTu/_buildManifest.js" nonce="" async="">
+</script>
+<script src="https://books.ridicdn.net/_next/static/Fmr670y3ul4jgmswuXaTu/_ssgManifest.js" nonce="" async="">
+</script>
+<script defer="" src="https://static.cloudflareinsights.com/beacon.min.js" data-cf-beacon="{&quot;rayId&quot;:&quot;652d6d159e5fa1b3&quot;,&quot;token&quot;:&quot;b3d876c7c09745f8887af3c58abfdc80&quot;,&quot;version&quot;:&quot;2021.5.1&quot;,&quot;si&quot;:10}">
+</script>
+<script type="text/javascript" id="" src="https://www.googletagmanager.com/gtag/js?id=AW-762116005">
+</script>
+<script type="text/javascript" id="" src="https://unpkg.com/@ridi/ridi-event-tracker@0.1.3/dist/umd/bundle.min.js">
+</script>
+<script type="text/javascript" id="">
+! function(b, e, f, g, a, c, d) { b.fbq || (a = b.fbq = function() { a.callMethod ? a.callMethod.apply(a, arguments) : a.queue.push(arguments) }, b._fbq || (b._fbq = a), a.push = a, a.loaded = !0, a.version = "2.0", a.queue = [], c = e.createElement(f), c.async = !0, c.src = g, d = e.getElementsByTagName(f)[0], d.parentNode.insertBefore(c, d)) }(window, document, "script", "https://connect.facebook.net/en_US/fbevents.js");
+fbq("init", "826424444060066");
+fbq("init", "369643527137452");
+fbq("track", "PageView");
+</script>
+<noscript>
+    <img height="1" width="1" style="display:none" src="https://www.facebook.com/tr?id=826424444060066&amp;ev=PageView&amp;noscript=1">
+    <img height="1" width="1" style="display:none" src="https://www.facebook.com/tr?id=369643527137452&amp;ev=PageView&amp;noscript=1">
+</noscript>
+<script type="text/javascript" id="">
+window.dataLayer = window.dataLayer || [];
 
-          var deviceType;
-          if (platform.isMobile) {
-            deviceType = 'mobile';
-          } else if (platform.isPaper) {
-            deviceType = 'paper';
-          } else {
-            deviceType = 'pc';
-          }
-          var ridiEventClient = new EventClient({
-            trackingId: 'GTM-TRFJGGB',
-            deviceType: deviceType,
-            uId: undefined,
-            autoPageView: true,
-          });
-          window.ridiEventClient = ridiEventClient;
-        </script>
+function gtag() { dataLayer.push(arguments) } gtag("js", new Date);
+gtag("config", "AW-762116005");
+</script>
+<script type="text/javascript" id="">
+var beaconSrc = "https://s3.ap-northeast-2.amazonaws.com/beacon-ridibooks-2/beacon_ridibooks_2.gif";
+window.ret = new Tracker({ deviceType: "pc", uId: "undefined", beaconOptions: { beaconSrc: beaconSrc }, debug: "true" == google_tag_manager["GTM-TRFJGGB"].macro(9) });
+ret.initialize();
+</script>
+<script type="text/javascript" id="">
+window.ret.sendPageView(google_tag_manager["GTM-TRFJGGB"].macro(30), google_tag_manager["GTM-TRFJGGB"].macro(31));
+</script>
+<script src="https://analytics.twitter.com/i/adsct?type=javascript&amp;version=1.1.0&amp;p_id=Twitter&amp;p_user_id=0&amp;txn_id=nw1qv&amp;events=%5B%5B%22pageview%22%2Cnull%5D%5D&amp;tw_sale_amount=0&amp;tw_order_quantity=0&amp;tw_iframe_status=0&amp;tpx_cb=twttr.conversion.loadPixels&amp;tw_document_href=https%3A%2F%2Fridibooks.com%2Freading-note%2Fdetail%2F2234001683" type="text/javascript">
+</script>
+<script src="https://analytics.twitter.com/i/adsct?type=javascript&amp;version=1.1.0&amp;p_id=Twitter&amp;p_user_id=0&amp;txn_id=o1w7t&amp;events=%5B%5B%22pageview%22%2Cnull%5D%5D&amp;tw_sale_amount=0&amp;tw_order_quantity=0&amp;tw_iframe_status=0&amp;tpx_cb=twttr.conversion.loadPixels&amp;tw_document_href=https%3A%2F%2Fridibooks.com%2Freading-note%2Fdetail%2F2234001683" type="text/javascript">
+</script>
+</body>
 
-      </div>
-      <script id="__NEXT_DATA__" type="application/json" nonce="">{"props":{"initialProps":{"pageProps":{"is_login":"true","pathname":"/reading-note/detail/2234001683"},"theme":"","stage":"","query":{"is_login":"true","pathname":"/reading-note/detail/2234001683"}},"initialState":{"books":{"items":{},"isAvailableSelect":{},"desc":{}},"categories":{"items":{}}}},"page":"/partials/gnb","query":{"is_login":"true","pathname":"/reading-note/detail/2234001683"},"buildId":"Fmr670y3ul4jgmswuXaTu","assetPrefix":"https://books.ridicdn.net","isFallback":false,"customServer":true,"gip":true,"appGip":true,"ids":[]}</script><script nonce="" nomodule="" src="https://books.ridicdn.net/_next/static/runtime/polyfills-0a77ede13633b1bb76af.js"></script><script async="" data-next-page="/partials/gnb" src="https://books.ridicdn.net/_next/static/Fmr670y3ul4jgmswuXaTu/pages/partials/gnb.js" nonce=""></script><script async="" data-next-page="/_app" src="https://books.ridicdn.net/_next/static/Fmr670y3ul4jgmswuXaTu/pages/_app.js" nonce=""></script><script src="https://books.ridicdn.net/_next/static/runtime/webpack-bc518a019c6923cc0550.js" nonce="" async=""></script><script src="https://books.ridicdn.net/_next/static/chunks/framework.5a6fd18fd7776ae00af7.js" nonce="" async=""></script><script src="https://books.ridicdn.net/_next/static/chunks/28d15158.92a33618818d4a9addc1.js" nonce="" async=""></script><script src="https://books.ridicdn.net/_next/static/chunks/8fc4b86d.5d7b6a7a465260eb4125.js" nonce="" async=""></script><script src="https://books.ridicdn.net/_next/static/chunks/32bd1e1c.a9b5d736669a0417a039.js" nonce="" async=""></script><script src="https://books.ridicdn.net/_next/static/chunks/2f8d33e8.0c44e5b1595dca45886f.js" nonce="" async=""></script><script src="https://books.ridicdn.net/_next/static/chunks/af8940d5.42c46582cc137d1fe19b.js" nonce="" async=""></script><script src="https://books.ridicdn.net/_next/static/chunks/commons.0a0fa3ad468fd642729e.js" nonce="" async=""></script><script src="https://books.ridicdn.net/_next/static/chunks/09c5c6d6dbc6fc797543752bdf983ce42923a4d4.ed635fe18510b32b0833.js" nonce="" async=""></script><script src="https://books.ridicdn.net/_next/static/chunks/35cf5689c451a6769f7e3ec5ab262ff615d9a2d8.eb58587de4bb95fed90e.js" nonce="" async=""></script><script src="https://books.ridicdn.net/_next/static/chunks/166bbe251052a9149a310d00783668c21cfbab6b.e0ebdf0e80f984b85f4d.js" nonce="" async=""></script><script src="https://books.ridicdn.net/_next/static/chunks/22aa3cf75b882d79e4dea27566783c2fff341933.276ce6147a391094693d.js" nonce="" async=""></script><script src="https://books.ridicdn.net/_next/static/chunks/3050b77edf4b71cb0705791385c1f37ac9379306.ead8aa031edd0341f4d6.js" nonce="" async=""></script><script src="https://books.ridicdn.net/_next/static/chunks/124413ad38acb4c768c2d4591bfd022927b7b765.8aaac64e70ef75cce20c.js" nonce="" async=""></script><script src="https://books.ridicdn.net/_next/static/chunks/6380b0ccf901e3d6a1598008b03e20400114d5bc.c4a7425a595baaee997f.js" nonce="" async=""></script><script src="https://books.ridicdn.net/_next/static/runtime/main-2e6f585d9bb1839f277e.js" nonce="" async=""></script><script src="https://books.ridicdn.net/_next/static/Fmr670y3ul4jgmswuXaTu/_buildManifest.js" nonce="" async=""></script><script src="https://books.ridicdn.net/_next/static/Fmr670y3ul4jgmswuXaTu/_ssgManifest.js" nonce="" async=""></script>
-      <script defer="" src="https://static.cloudflareinsights.com/beacon.min.js" data-cf-beacon="{&quot;rayId&quot;:&quot;652d6d159e5fa1b3&quot;,&quot;token&quot;:&quot;b3d876c7c09745f8887af3c58abfdc80&quot;,&quot;version&quot;:&quot;2021.5.1&quot;,&quot;si&quot;:10}"></script>
-
-
-
-      <script type="text/javascript" id="" src="https://www.googletagmanager.com/gtag/js?id=AW-762116005"></script><script type="text/javascript" id="" src="https://unpkg.com/@ridi/ridi-event-tracker@0.1.3/dist/umd/bundle.min.js"></script><script type="text/javascript" id="">!function(b,e,f,g,a,c,d){b.fbq||(a=b.fbq=function(){a.callMethod?a.callMethod.apply(a,arguments):a.queue.push(arguments)},b._fbq||(b._fbq=a),a.push=a,a.loaded=!0,a.version="2.0",a.queue=[],c=e.createElement(f),c.async=!0,c.src=g,d=e.getElementsByTagName(f)[0],d.parentNode.insertBefore(c,d))}(window,document,"script","https://connect.facebook.net/en_US/fbevents.js");fbq("init","826424444060066");fbq("init","369643527137452");fbq("track","PageView");</script>
-      <noscript>
-        <img height="1" width="1" style="display:none" src="https://www.facebook.com/tr?id=826424444060066&amp;ev=PageView&amp;noscript=1">
-        <img height="1" width="1" style="display:none" src="https://www.facebook.com/tr?id=369643527137452&amp;ev=PageView&amp;noscript=1">
-      </noscript>
-      <script type="text/javascript" id="">window.dataLayer=window.dataLayer||[];function gtag(){dataLayer.push(arguments)}gtag("js",new Date);gtag("config","AW-762116005");</script>
-      <script type="text/javascript" id="">var beaconSrc="https://s3.ap-northeast-2.amazonaws.com/beacon-ridibooks-2/beacon_ridibooks_2.gif";window.ret=new Tracker({deviceType:"pc",uId:"undefined",beaconOptions:{beaconSrc:beaconSrc},debug:"true"==google_tag_manager["GTM-TRFJGGB"].macro(9)});ret.initialize();</script><script type="text/javascript" id="">window.ret.sendPageView(google_tag_manager["GTM-TRFJGGB"].macro(30),google_tag_manager["GTM-TRFJGGB"].macro(31));</script><script src="https://analytics.twitter.com/i/adsct?type=javascript&amp;version=1.1.0&amp;p_id=Twitter&amp;p_user_id=0&amp;txn_id=nw1qv&amp;events=%5B%5B%22pageview%22%2Cnull%5D%5D&amp;tw_sale_amount=0&amp;tw_order_quantity=0&amp;tw_iframe_status=0&amp;tpx_cb=twttr.conversion.loadPixels&amp;tw_document_href=https%3A%2F%2Fridibooks.com%2Freading-note%2Fdetail%2F2234001683" type="text/javascript"></script><script src="https://analytics.twitter.com/i/adsct?type=javascript&amp;version=1.1.0&amp;p_id=Twitter&amp;p_user_id=0&amp;txn_id=o1w7t&amp;events=%5B%5B%22pageview%22%2Cnull%5D%5D&amp;tw_sale_amount=0&amp;tw_order_quantity=0&amp;tw_iframe_status=0&amp;tpx_cb=twttr.conversion.loadPixels&amp;tw_document_href=https%3A%2F%2Fridibooks.com%2Freading-note%2Fdetail%2F2234001683" type="text/javascript"></script></body></html>
+</html>
