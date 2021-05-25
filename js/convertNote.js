@@ -33,7 +33,7 @@ function getNoteData(noteLayout, ele){
 			alert("뭔거용");
 			break;
 	}
-	
+
 	return document.querySelectorAll(selectNoteLayout + " > " +ele);
 }
 
@@ -56,14 +56,25 @@ function getBookWriter(){
 }
 /* 책 노트 내용 */
 function getBookNotes(){
-	const bookNoteSelector = "li.css-vgz3sg > p";
-	const noteEle = getNoteData("content", bookNoteSelector),
-		noteCnt = noteEle.length;
+	const bootNotesSelector = "li.css-vgz3sg",
+		bookNotesYellowSelector = "p.css-135eg6y",
+		bookNotesMemoSelector = "p.note_message";
 
-		console.log(noteContentSelector+">"+bookNoteSelector);
+	const notesEle = getNoteData("content", bootNotesSelector),
+		noteCnt = notesEle.length;
+
 	let notesText = "";
-	noteEle.forEach(function(ele){
-		notesText = notesText+"●"+ele.innerText+"\n\n";
+	notesEle.forEach(function(ele){
+		const noteYellowEle = ele.querySelector(bookNotesYellowSelector);
+		const noteMemoEle = ele.querySelector(bookNotesMemoSelector);
+
+		if (noteYellowEle != null) {
+			notesText = notesText+"●"+noteYellowEle.innerText+"\n";
+		}
+		if (noteMemoEle != null) {
+			notesText = notesText+"    ●"+noteYellowEle.innerText+"\n";
+		}
+		notesText += "\n\n";
 	});
 
 	return notesText;
